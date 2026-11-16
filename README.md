@@ -24,8 +24,7 @@ This project allows users to browse images in a responsive gallery. Users can cl
 
 ## Live Demo
 
-[Click Here to View Live Website](https://sayyed-alisha-khalil.github.io/CodeAlpha_ImageGallery/)
-
+ https://alisha-khalil.github.io/CodeAlpha_ImageGallery/
 ## Source Code
 
 [Click Here to View GitHub Repository](https://github.com/Sayyed-Alisha-Khalil/CodeAlpha_ImageGallery)
